@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BitPixelup
 - 👀 I’m interested in game dev
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on AI
 - 📫 How to reach me thebitpixel.alpha@gmail.com
 
